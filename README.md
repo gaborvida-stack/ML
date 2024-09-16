@@ -11,10 +11,10 @@ This project is a simple implementation of a logistic regression classifier usin
 ## Installation
   - Clone the repository or download the project files:
   ```bash
-  git clone https://github.com/yourusername/logistic-regression-classifier.git
+  https://github.com/gaborvida-stack/ML.git
   ```
   ```bash
-  cd logistic-regression-classifier
+  cd ML
   ```
 
   - Install the required dependencies:
@@ -25,7 +25,7 @@ This project is a simple implementation of a logistic regression classifier usin
 ## Usage
 
   ```bash
-  python logistic_regression.py
+  python lrc.py
   ```
 
   - You will be prompted to select a dataset: either iris or wine. Based on your choice, the program will:
