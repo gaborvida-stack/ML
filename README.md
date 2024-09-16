@@ -11,7 +11,7 @@ This project is a simple implementation of a logistic regression classifier usin
 ## Installation
   - Clone the repository or download the project files:
   ```bash
-  https://github.com/gaborvida-stack/ML.git
+  git clone https://github.com/gaborvida-stack/ML.git
   ```
   ```bash
   cd ML
