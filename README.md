@@ -1,5 +1,5 @@
 ## Logistic Regression Classifier with Scikit-Learn
-This project is a simple implementation of a logistic regression classifier using the Scikit-Learn library. The script allows users to choose between two datasets — the Iris dataset and the Wine dataset — and trains a logistic regression model on the selected dataset. After training, it evaluates the model using accuracy score, classification report, and confusion matrix.
+This project is a simple implementation of a logistic regression classifier using the `scikit-learn` library. The script allows users to choose between two datasets — the Iris dataset and the Wine dataset — and trains a logistic regression model on the selected dataset. After training, it evaluates the model using accuracy score, classification report, and confusion matrix.
 
 ## Features
   - Load either the Iris or Wine dataset
