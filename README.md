@@ -8,6 +8,11 @@ This project is a simple implementation of a logistic regression classifier usin
   - Train a Logistic Regression model
   - Evaluate the model using accuracy, classification report, and confusion matrix
 
+## Requirements
+  - `scikit-learn`
+  - `pandas`
+  - `matplotlib`
+
 ## Installation
   - Clone the repository or download the project files:
   ```bash
