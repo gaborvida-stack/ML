@@ -9,6 +9,7 @@ This project is a simple implementation of a logistic regression classifier usin
   - Evaluate the model using accuracy, classification report, and confusion matrix
 
 ## Requirements
+  - Python 3 (or higher)
   - `scikit-learn`
   - `pandas`
   - `matplotlib`
